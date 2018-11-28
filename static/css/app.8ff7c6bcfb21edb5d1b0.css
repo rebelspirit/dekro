@@ -423,15 +423,15 @@ h6[data-v-33d5173e] {
 
 @font-face {
   font-family: "Avenir Next Cyr";
-  src: url(/static/fonts/AvenirNextCyr-Regular.97b615b.ttf) format("truetype");
+  src: url(./static/fonts/AvenirNextCyr-Regular.97b615b.ttf) format("truetype");
 }
 @font-face {
   font-family: "Avenir Next Cyr - Heavy";
-  src: url(/static/fonts/AvenirNextCyr-Heavy.b14619f.ttf) format("truetype");
+  src: url(./static/fonts/AvenirNextCyr-Heavy.b14619f.ttf) format("truetype");
 }
 @font-face {
   font-family: "Avenir Next Cyr - Demi";
-  src: url(/static/fonts/AvenirNextCyr-Demi.104be5f.ttf) format("truetype");
+  src: url(./static/fonts/AvenirNextCyr-Demi.104be5f.ttf) format("truetype");
 }
 .wrapper[data-v-5dbbda2d] {
   max-width: 1920px;
@@ -808,7 +808,7 @@ h3[data-v-3a9c72bb] {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background-image: url(/static/img/feedback-bg.cc1f799.png);
+  background-image: url(./static/img/feedback-bg.cc1f799.png);
   background-color: #000003;
   width: 100%;
   min-height: 600px;
@@ -1013,9 +1013,9 @@ h6[data-v-7e7d0372] {
   width: 25px;
 }
 .contacts-container__map[data-v-7e7d0372] {
-  background-image: url(/static/img/map.dac7ae1.png);
+  background-image: url(./static/img/map.dac7ae1.png);
   width: 50%;
   max-width: 960px;
 }
 
-/*# sourceMappingURL=app.37bcc2310da9c9b8ae8a.css.map*/
+/*# sourceMappingURL=app.8ff7c6bcfb21edb5d1b0.css.map*/
