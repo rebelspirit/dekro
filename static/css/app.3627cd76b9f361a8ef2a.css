@@ -2247,16 +2247,16 @@ h3[data-v-70729240] {
 }
 }
 
-.kitchenDetails-container[data-v-38713d40] {
+.kitchenDetails-container[data-v-fe30452e] {
   margin-bottom: 150px;
 }
-.kitchenDetails-container__header[data-v-38713d40] {
+.kitchenDetails-container__header[data-v-fe30452e] {
   position: relative;
   color: #ffffff;
   font-family: "Avenir Next Cyr";
   margin-bottom: 150px;
 }
-.kitchenDetails-container__header > h1[data-v-38713d40] {
+.kitchenDetails-container__header > h1[data-v-fe30452e] {
   position: absolute;
   bottom: 130px;
   left: 240px;
@@ -2266,7 +2266,7 @@ h3[data-v-70729240] {
   width: 100%;
   max-width: 760px;
 }
-.kitchenDetails-container__header > p[data-v-38713d40] {
+.kitchenDetails-container__header > p[data-v-fe30452e] {
   position: absolute;
   top: 70px;
   left: 240px;
@@ -2274,7 +2274,7 @@ h3[data-v-70729240] {
   font-weight: 300;
   line-height: 36px;
 }
-.shadow[data-v-38713d40] {
+.shadow[data-v-fe30452e] {
   position: absolute;
   top: 0;
   left: 0;
@@ -2283,7 +2283,7 @@ h3[data-v-70729240] {
   width: 100%;
   height: 100%;
 }
-.kitchenDetails-container__content[data-v-38713d40] {
+.kitchenDetails-container__content[data-v-fe30452e] {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -2294,28 +2294,28 @@ h3[data-v-70729240] {
   max-width: 1500px;
   margin: 0 auto;
 }
-.kitchenDetails-container__content--item[data-v-38713d40] {
+.kitchenDetails-container__content--item[data-v-fe30452e] {
   width: 100%;
   max-width: 730px;
   font-family: "Avenir Next Cyr";
   color: #191919;
 }
-.kitchenDetails-container__content--item > img[data-v-38713d40] {
+.kitchenDetails-container__content--item > img[data-v-fe30452e] {
   max-height: 500px;
 }
-.kitchenDetails-container__content--item > h4[data-v-38713d40] {
+.kitchenDetails-container__content--item > h4[data-v-fe30452e] {
   font-size: 36px;
   font-weight: 700;
   line-height: 80px;
 }
-.kitchenDetails-container__content--item > ul > li[data-v-38713d40] {
+.kitchenDetails-container__content--item > ul > li[data-v-fe30452e] {
   position: relative;
   font-size: 16px;
   font-weight: 400;
   line-height: 36px;
   list-style-type: none;
 }
-.kitchenDetails-container__content--item > ul > li[data-v-38713d40]:before {
+.kitchenDetails-container__content--item > ul > li[data-v-fe30452e]:before {
   position: absolute;
   top: 17px;
   left: -15px;
@@ -2326,20 +2326,20 @@ h3[data-v-70729240] {
   background: #ef6418;
   content: '';
 }
-.kitchenDetails-container__content--item > p[data-v-38713d40] {
+.kitchenDetails-container__content--item > p[data-v-fe30452e] {
   font-size: 16px;
   font-weight: 400;
   line-height: 36px;
 }
-.kitchenDetails-container__content--item:nth-child(1) > p[data-v-38713d40] {
+.kitchenDetails-container__content--item:nth-child(1) > p[data-v-fe30452e] {
   margin-top: 60px;
   margin-bottom: 150px;
 }
-.kitchenDetails-container__content--item:nth-child(2) > p[data-v-38713d40] {
+.kitchenDetails-container__content--item:nth-child(2) > p[data-v-fe30452e] {
   margin-bottom: 60px;
   padding-left: 130px;
 }
-.small-img-container[data-v-38713d40] {
+.small-img-container[data-v-fe30452e] {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -2350,11 +2350,11 @@ h3[data-v-70729240] {
   margin-top: 35px;
   margin-bottom: 150px;
 }
-.small-img-container > img[data-v-38713d40] {
+.small-img-container > img[data-v-fe30452e] {
   max-width: 350px;
   max-height: 240px;
 }
-button[data-v-38713d40] {
+button[data-v-fe30452e] {
   height: 60px;
   width: 255px;
   color: #ffffff;
@@ -2369,44 +2369,44 @@ button[data-v-38713d40] {
   margin-left: 130px;
 }
 @media (min-width: 320px) and (max-width: 600px) {
-.kitchenDetails-container__header[data-v-38713d40] {
+.kitchenDetails-container__header[data-v-fe30452e] {
     font-family: "Avenir Next Cyr";
     margin-bottom: 0;
 }
-.kitchenDetails-container__header > h1[data-v-38713d40] {
+.kitchenDetails-container__header > h1[data-v-fe30452e] {
     font-size: 18px;
-    bottom: 10px;
+    bottom: 25%;
     left: 25px;
-    line-height: 90px;
+    line-height: unset;
     max-width: 280px;
 }
-.kitchenDetails-container__header > p[data-v-38713d40] {
+.kitchenDetails-container__header > p[data-v-fe30452e] {
     display: none;
 }
-.kitchenDetails-container__content[data-v-38713d40] {
+.kitchenDetails-container__content[data-v-fe30452e] {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column;
 }
-.kitchenDetails-container__content--item:nth-child(1) > p[data-v-38713d40] {
+.kitchenDetails-container__content--item:nth-child(1) > p[data-v-fe30452e] {
     margin-top: 20px;
     margin-bottom: 40px;
 }
-.kitchenDetails-container__content--item:nth-child(2) > p[data-v-38713d40] {
+.kitchenDetails-container__content--item:nth-child(2) > p[data-v-fe30452e] {
     padding: 0;
     margin-bottom: 40px;
 }
-.kitchenDetails-container__content--item[data-v-38713d40] {
+.kitchenDetails-container__content--item[data-v-fe30452e] {
     padding-left: 15px;
     padding-right: 15px;
 }
-button[data-v-38713d40] {
+button[data-v-fe30452e] {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
-.small-img-container[data-v-38713d40] {
+.small-img-container[data-v-fe30452e] {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
@@ -2417,50 +2417,50 @@ button[data-v-38713d40] {
             align-items: center;
     margin-bottom: 40px;
 }
-img[data-v-38713d40] {
+img[data-v-fe30452e] {
     margin-bottom: 15px;
 }
 }
 @media (min-width: 600px) and (max-width: 1025px) {
-.kitchenDetails-container__header[data-v-38713d40] {
+.kitchenDetails-container__header[data-v-fe30452e] {
     font-family: "Avenir Next Cyr";
     margin-bottom: 0;
 }
-.kitchenDetails-container__header > h1[data-v-38713d40] {
+.kitchenDetails-container__header > h1[data-v-fe30452e] {
     font-size: 25px;
-    bottom: 45px;
+    bottom: 35%;
     left: 25px;
-    line-height: 90px;
+    line-height: unset;
     max-width: 450px;
 }
-.kitchenDetails-container__header > p[data-v-38713d40] {
+.kitchenDetails-container__header > p[data-v-fe30452e] {
     display: none;
 }
-.kitchenDetails-container__content[data-v-38713d40] {
+.kitchenDetails-container__content[data-v-fe30452e] {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column;
 }
-.kitchenDetails-container__content--item:nth-child(1) > p[data-v-38713d40] {
+.kitchenDetails-container__content--item:nth-child(1) > p[data-v-fe30452e] {
     margin-top: 20px;
     margin-bottom: 40px;
 }
-.kitchenDetails-container__content--item:nth-child(2) > p[data-v-38713d40] {
+.kitchenDetails-container__content--item:nth-child(2) > p[data-v-fe30452e] {
     padding: 0;
     margin-bottom: 40px;
 }
-.kitchenDetails-container__content--item[data-v-38713d40] {
+.kitchenDetails-container__content--item[data-v-fe30452e] {
     padding-left: 15px;
     padding-right: 15px;
     margin: 0 auto;
 }
-button[data-v-38713d40] {
+button[data-v-fe30452e] {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
-.small-img-container[data-v-38713d40] {
+.small-img-container[data-v-fe30452e] {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
@@ -2471,32 +2471,32 @@ button[data-v-38713d40] {
             align-items: center;
     margin-bottom: 40px;
 }
-img[data-v-38713d40] {
+img[data-v-fe30452e] {
     margin-bottom: 15px;
 }
 }
 @media (min-width: 1025px) and (max-width: 1900px) {
-.kitchenDetails-container__header > h1[data-v-38713d40] {
+.kitchenDetails-container__header > h1[data-v-fe30452e] {
     font-size: 60px;
     line-height: 60px;
     left: 17%;
     bottom: 30%;
 }
-.kitchenDetails-container__header > p[data-v-38713d40] {
+.kitchenDetails-container__header > p[data-v-fe30452e] {
     top: 10%;
     left: 17%;
 }
-.kitchenDetails-container__content[data-v-38713d40] {
+.kitchenDetails-container__content[data-v-fe30452e] {
     max-width: 1100px;
 }
-.kitchenDetails-container__content--item > p[data-v-38713d40] {
+.kitchenDetails-container__content--item > p[data-v-fe30452e] {
     padding-right: 15px;
 }
-.small-img-container > img[data-v-38713d40] {
+.small-img-container > img[data-v-fe30452e] {
     max-width: 260px;
     max-height: 200px;
 }
-.small-img-container[data-v-38713d40] {
+.small-img-container[data-v-fe30452e] {
     margin-bottom: 280px;
 }
 }
@@ -2727,16 +2727,16 @@ h3[data-v-107da206] {
 }
 }
 
-.fullPortfolio-container[data-v-51478fea] {
+.fullPortfolio-container[data-v-526e7a92] {
   margin-bottom: 150px;
 }
-.fullPortfolio-container__header[data-v-51478fea] {
+.fullPortfolio-container__header[data-v-526e7a92] {
   position: relative;
   color: #ffffff;
   font-family: "Avenir Next Cyr";
   margin-bottom: 150px;
 }
-.fullPortfolio-container__header > h1[data-v-51478fea] {
+.fullPortfolio-container__header > h1[data-v-526e7a92] {
   position: absolute;
   bottom: 130px;
   left: 240px;
@@ -2746,7 +2746,7 @@ h3[data-v-107da206] {
   width: 100%;
   max-width: 760px;
 }
-.fullPortfolio-container__header > p[data-v-51478fea] {
+.fullPortfolio-container__header > p[data-v-526e7a92] {
   position: absolute;
   top: 70px;
   left: 240px;
@@ -2754,7 +2754,7 @@ h3[data-v-107da206] {
   font-weight: 300;
   line-height: 36px;
 }
-.shadow[data-v-51478fea] {
+.shadow[data-v-526e7a92] {
   position: absolute;
   top: 0;
   left: 0;
@@ -2764,58 +2764,58 @@ h3[data-v-107da206] {
   height: 100%;
 }
 @media (min-width: 320px) and (max-width: 600px) {
-.fullPortfolio-container__header[data-v-51478fea] {
+.fullPortfolio-container__header[data-v-526e7a92] {
     font-family: "Avenir Next Cyr";
     margin-bottom: 0;
 }
-.fullPortfolio-container__header > h1[data-v-51478fea] {
+.fullPortfolio-container__header > h1[data-v-526e7a92] {
     font-size: 18px;
-    bottom: 15px;
+    bottom: 25%;
     left: 25px;
-    line-height: 90px;
+    line-height: unset;
     max-width: 280px;
 }
-.fullPortfolio-container__header > p[data-v-51478fea] {
+.fullPortfolio-container__header > p[data-v-526e7a92] {
     display: none;
 }
 }
 @media (min-width: 600px) and (max-width: 1025px) {
-.fullPortfolio-container__header[data-v-51478fea] {
+.fullPortfolio-container__header[data-v-526e7a92] {
     font-family: "Avenir Next Cyr";
     margin-bottom: 0;
 }
-.fullPortfolio-container__header > h1[data-v-51478fea] {
+.fullPortfolio-container__header > h1[data-v-526e7a92] {
     font-size: 25px;
-    bottom: 65px;
+    bottom: 35%;
     left: 25px;
-    line-height: 90px;
+    line-height: unset;
     max-width: 450px;
 }
-.fullPortfolio-container__header > p[data-v-51478fea] {
+.fullPortfolio-container__header > p[data-v-526e7a92] {
     display: none;
 }
 }
 @media (min-width: 1025px) and (max-width: 1900px) {
-.fullPortfolio-container__header > h1[data-v-51478fea] {
+.fullPortfolio-container__header > h1[data-v-526e7a92] {
     font-size: 60px;
     bottom: 25%;
 }
-.fullPortfolio-container__header > p[data-v-51478fea] {
+.fullPortfolio-container__header > p[data-v-526e7a92] {
     top: 5%;
 }
 }
 
 
-.category-container[data-v-e48ae050] {
+.category-container[data-v-7859eb18] {
   margin-bottom: 180px;
 }
-.category-container__header[data-v-e48ae050] {
+.category-container__header[data-v-7859eb18] {
   position: relative;
   color: #ffffff;
   font-family: "Avenir Next Cyr";
   margin-bottom: 150px;
 }
-.category-container__header > h1[data-v-e48ae050] {
+.category-container__header > h1[data-v-7859eb18] {
   position: absolute;
   bottom: 450px;
   left: 240px;
@@ -2825,7 +2825,7 @@ h3[data-v-107da206] {
   width: 100%;
   max-width: 760px;
 }
-.category-container__header > p[data-v-e48ae050] {
+.category-container__header > p[data-v-7859eb18] {
   position: absolute;
   top: 70px;
   left: 240px;
@@ -2833,7 +2833,7 @@ h3[data-v-107da206] {
   font-weight: 300;
   line-height: 36px;
 }
-.shadow[data-v-e48ae050] {
+.shadow[data-v-7859eb18] {
   position: absolute;
   top: 0;
   left: 0;
@@ -2842,7 +2842,7 @@ h3[data-v-107da206] {
   width: 100%;
   height: 100%;
 }
-.category-bottom-arrow[data-v-e48ae050] {
+.category-bottom-arrow[data-v-7859eb18] {
   position: absolute;
   bottom: 0;
   display: -webkit-box;
@@ -2854,12 +2854,12 @@ h3[data-v-107da206] {
   width: 100%;
   min-height: 80px;
 }
-.category-bottom-arrow-item[data-v-e48ae050] {
+.category-bottom-arrow-item[data-v-7859eb18] {
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAeCAMAAAAfOR5kAAAAAXNSR0IB2cksfwAAADNQTFRFAAAA////////////////////////////////////////////////////////////////t5XiggAAABF0Uk5TAAXY2SD/JpoyiPE3G9wcV/ocSS6ZAAAAYUlEQVR4nO3JSRaAIAxEwYCEefD+pzVAUIEDuPG/XlUDjIQ8BOwpRPXzV6yNXdkaDQ59mDl4dBAT+2DSFAEyO3PVXG/2zrcOb/xS9sqTdi+IZdbmJ9JmbU6t2n1XcikfvQDmlgXGBJABQwAAAABJRU5ErkJggg==);
   width: 22px;
   height: 30px;
 }
-.category-container__header--item-container[data-v-e48ae050] {
+.category-container__header--item-container[data-v-7859eb18] {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -2872,7 +2872,7 @@ h3[data-v-107da206] {
   left: 240px;
   bottom: 350px;
 }
-.category-container__header--item-container > p[data-v-e48ae050] {
+.category-container__header--item-container > p[data-v-7859eb18] {
   width: 100%;
   max-width: 190px;
   color: #ffffff;
@@ -2883,10 +2883,10 @@ h3[data-v-107da206] {
   padding-bottom: 20px;
   border-bottom: 1px solid #f4f8fb;
 }
-.category-container__header--item-container > p[data-v-e48ae050]:nth-child(1) {
+.category-container__header--item-container > p[data-v-7859eb18]:nth-child(1) {
   max-width: 145px;
 }
-button[data-v-e48ae050] {
+button[data-v-7859eb18] {
   position: absolute;
   left: 240px;
   bottom: 240px;
@@ -2902,7 +2902,7 @@ button[data-v-e48ae050] {
   cursor: pointer;
   outline: none;
 }
-.category-container__select-category[data-v-e48ae050] {
+.category-container__select-category[data-v-7859eb18] {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -2915,13 +2915,13 @@ button[data-v-e48ae050] {
   margin-right: auto;
   margin-bottom: 170px;
 }
-.category-container__select-category--item[data-v-e48ae050] {
+.category-container__select-category--item[data-v-7859eb18] {
   position: relative;
   width: 100%;
   max-width: 350px;
   height: 300px;
 }
-.category-container__select-category--item > h6[data-v-e48ae050] {
+.category-container__select-category--item > h6[data-v-7859eb18] {
   position: absolute;
   bottom: 0;
   left: 50%;
@@ -2933,7 +2933,7 @@ button[data-v-e48ae050] {
   font-weight: 700;
   line-height: 90px;
 }
-.small-shadow[data-v-e48ae050] {
+.small-shadow[data-v-7859eb18] {
   position: absolute;
   top: 21px;
   left: 0;
@@ -2943,7 +2943,7 @@ button[data-v-e48ae050] {
   background-image: url(../img/small-shadow.e66f373.png);
   opacity: 0.7;
 }
-h2[data-v-e48ae050] {
+h2[data-v-7859eb18] {
   width: 100%;
   max-width: 1500px;
   color: #191919;
@@ -2955,16 +2955,16 @@ h2[data-v-e48ae050] {
   margin-right: auto;
   margin-bottom: 70px;
 }
-.portfolio-container[data-v-e48ae050] {
+.portfolio-container[data-v-7859eb18] {
   width: 100%;
   max-width: 1500px;
   margin-left: auto;
   margin-right: auto;
 }
-.fa[data-v-e48ae050] {
+.fa[data-v-7859eb18] {
   display: none;
 }
-.portfolio-menu[data-v-e48ae050] {
+.portfolio-menu[data-v-7859eb18] {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -2975,7 +2975,7 @@ h2[data-v-e48ae050] {
   max-width: 800px;
   margin-bottom: 80px;
 }
-.portfolio-menu__item[data-v-e48ae050] {
+.portfolio-menu__item[data-v-7859eb18] {
   display: block;
   font-family: "Avenir Next Cyr - Demi";
   font-size: 20px;
@@ -2985,22 +2985,22 @@ h2[data-v-e48ae050] {
   border: 2px solid transparent;
   border-radius: 6px;
 }
-.portfolio-menu__item[data-v-e48ae050]:hover {
+.portfolio-menu__item[data-v-7859eb18]:hover {
   color: #ef6418;
   border: 2px solid #ef6418;
 }
-.active[data-v-e48ae050] {
+.active[data-v-7859eb18] {
   color: #ef6418;
   border: 2px solid #ef6418;
 }
-.portfolio-object[data-v-e48ae050] {
+.portfolio-object[data-v-7859eb18] {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
 }
-.portfolio-object--item[data-v-e48ae050] {
+.portfolio-object--item[data-v-7859eb18] {
   position: relative;
   width: 100%;
   max-width: 478px;
@@ -3010,10 +3010,10 @@ h2[data-v-e48ae050] {
   margin-right: 30px;
   cursor: pointer;
 }
-.portfolio-object--item[data-v-e48ae050]:nth-child(3n) {
+.portfolio-object--item[data-v-7859eb18]:nth-child(3n) {
   margin-right: 0;
 }
-.load-more[data-v-e48ae050] {
+.load-more[data-v-7859eb18] {
   display: block;
   text-align: left;
   color: #ef6418;
@@ -3023,10 +3023,10 @@ h2[data-v-e48ae050] {
   line-height: 80px;
   text-decoration: underline;
 }
-.fa-active[data-v-e48ae050] {
+.fa-active[data-v-7859eb18] {
   display: inline-block;
 }
-.category-container__content__container[data-v-e48ae050] {
+.category-container__content__container[data-v-7859eb18] {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -3039,18 +3039,18 @@ h2[data-v-e48ae050] {
   margin-right: auto;
   padding-bottom: 25px;
 }
-.category-container__content__container--item[data-v-e48ae050] {
+.category-container__content__container--item[data-v-7859eb18] {
   width: 100%;
   max-width: 730px;
 }
-.category-container__content__container--item > p[data-v-e48ae050] {
+.category-container__content__container--item > p[data-v-7859eb18] {
   color: #191919;
   font-family: "Avenir Next Cyr";
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
 }
-.category-container__content__container--item > ul > li[data-v-e48ae050] {
+.category-container__content__container--item > ul > li[data-v-7859eb18] {
   position: relative;
   color: #191919;
   font-family: "Avenir Next Cyr";
@@ -3059,7 +3059,7 @@ h2[data-v-e48ae050] {
   line-height: 36px;
   list-style-type: none;
 }
-.category-container__content__container--item > ul > li[data-v-e48ae050]:before {
+.category-container__content__container--item > ul > li[data-v-7859eb18]:before {
   position: absolute;
   top: 17px;
   left: -15px;
@@ -3071,52 +3071,52 @@ h2[data-v-e48ae050] {
   content: '';
 }
 @media (min-width: 320px) and (max-width: 600px) {
-.category-container[data-v-e48ae050] {
+.category-container[data-v-7859eb18] {
     margin-bottom: 90px;
 }
-.category-container__header[data-v-e48ae050] {
+.category-container__header[data-v-7859eb18] {
     font-family: "Avenir Next Cyr";
     margin-bottom: 250px;
 }
-.category-container__header > h1[data-v-e48ae050] {
+.category-container__header > h1[data-v-7859eb18] {
     font-size: 18px;
-    bottom: 5%;
+    bottom: 40%;
     left: 25px;
     -webkit-transform: translateY(-50%);
             transform: translateY(-50%);
-    line-height: 90px;
+    line-height: unset;
     max-width: 280px;
 }
-.category-container__header > p[data-v-e48ae050] {
+.category-container__header > p[data-v-7859eb18] {
     display: none;
 }
-.category-bottom-arrow[data-v-e48ae050] {
+.category-bottom-arrow[data-v-7859eb18] {
     display: none;
 }
-.category-container__header--item-container[data-v-e48ae050] {
+.category-container__header--item-container[data-v-7859eb18] {
     left: 25px;
     bottom: 1%;
     -webkit-transform: translateY(-50%);
             transform: translateY(-50%);
     max-width: 220px;
 }
-.category-container__header--item-container > p[data-v-e48ae050] {
+.category-container__header--item-container > p[data-v-7859eb18] {
     font-size: 11px;
     font-weight: 400;
     line-height: 25px;
     padding-bottom: 7px;
     max-width: 85px;
 }
-.category-container__header--item-container > p[data-v-e48ae050]:nth-child(1) {
+.category-container__header--item-container > p[data-v-7859eb18]:nth-child(1) {
     max-width: 85px;
 }
-button[data-v-e48ae050] {
+button[data-v-7859eb18] {
     left: 50%;
     bottom: -150px;
     -webkit-transform: translate(-50%);
             transform: translate(-50%);
 }
-.category-container__select-category[data-v-e48ae050] {
+.category-container__select-category[data-v-7859eb18] {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
@@ -3126,28 +3126,28 @@ button[data-v-e48ae050] {
             align-items: center;
     margin-bottom: 40px;
 }
-.category-container__select-category--item[data-v-e48ae050] {
+.category-container__select-category--item[data-v-7859eb18] {
     width: 280px;
     height: 250px;
     margin-bottom: 25px;
 }
-.category-container__select-category--item > img[data-v-e48ae050] {
+.category-container__select-category--item > img[data-v-7859eb18] {
     -webkit-filter: brightness(0.75);
             filter: brightness(0.75);
 }
-.small-shadow[data-v-e48ae050] {
+.small-shadow[data-v-7859eb18] {
     display: none;
 }
-h2[data-v-e48ae050] {
+h2[data-v-7859eb18] {
     font-size: 20px;
     text-align: center;
 }
-.portfolio-menu[data-v-e48ae050] {
+.portfolio-menu[data-v-7859eb18] {
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
 }
-.portfolio-menu__item[data-v-e48ae050] {
+.portfolio-menu__item[data-v-7859eb18] {
     display: none;
     width: 290px;
     height: 60px;
@@ -3155,14 +3155,14 @@ h2[data-v-e48ae050] {
     font-weight: 400;
     padding: 13px 22px;
 }
-.active[data-v-e48ae050] {
+.active[data-v-7859eb18] {
     display: block;
 }
-.fa[data-v-e48ae050] {
+.fa[data-v-7859eb18] {
     display: inline-block;
     margin-left: 7rem;
 }
-.portfolio-object[data-v-e48ae050] {
+.portfolio-object[data-v-7859eb18] {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
@@ -3171,25 +3171,25 @@ h2[data-v-e48ae050] {
         -ms-flex-align: center;
             align-items: center;
 }
-.portfolio-object--item[data-v-e48ae050] {
+.portfolio-object--item[data-v-7859eb18] {
     max-width: 280px;
     height: 220px;
     margin: 10px 0;
 }
-.portfolio-object--item > img[data-v-e48ae050] {
+.portfolio-object--item > img[data-v-7859eb18] {
     max-width: 280px;
     max-height: 220px;
     -webkit-filter: brightness(0.8);
             filter: brightness(0.8);
 }
-.load-more[data-v-e48ae050] {
+.load-more[data-v-7859eb18] {
     display: block;
     text-align: center;
     font-size: 22px;
     font-weight: 400;
     line-height: 80px;
 }
-.category-container__content__container[data-v-e48ae050] {
+.category-container__content__container[data-v-7859eb18] {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
@@ -3199,57 +3199,57 @@ h2[data-v-e48ae050] {
         -ms-flex-align: center;
             align-items: center;
 }
-.category-container__content__container[data-v-e48ae050] {
+.category-container__content__container[data-v-7859eb18] {
     padding: 0 15px;
 }
 }
 @media (min-width: 600px) and (max-width: 1025px) {
-.category-container[data-v-e48ae050] {
+.category-container[data-v-7859eb18] {
     margin-bottom: 90px;
 }
-.category-container__header[data-v-e48ae050] {
+.category-container__header[data-v-7859eb18] {
     font-family: "Avenir Next Cyr";
     margin-bottom: 250px;
 }
-.category-container__header > h1[data-v-e48ae050] {
+.category-container__header > h1[data-v-7859eb18] {
     font-size: 25px;
-    bottom: 15%;
+    bottom: 30%;
     left: 25px;
     -webkit-transform: translateY(-50%);
             transform: translateY(-50%);
-    line-height: 90px;
+    line-height: unset;
     max-width: 400px;
 }
-.category-container__header > p[data-v-e48ae050] {
+.category-container__header > p[data-v-7859eb18] {
     display: none;
 }
-.category-bottom-arrow[data-v-e48ae050] {
+.category-bottom-arrow[data-v-7859eb18] {
     display: none;
 }
-.category-container__header--item-container[data-v-e48ae050] {
+.category-container__header--item-container[data-v-7859eb18] {
     left: 25px;
     bottom: 1%;
     -webkit-transform: translateY(-50%);
             transform: translateY(-50%);
     max-width: 300px;
 }
-.category-container__header--item-container > p[data-v-e48ae050] {
+.category-container__header--item-container > p[data-v-7859eb18] {
     font-size: 16px;
     font-weight: 400;
     line-height: 25px;
     padding-bottom: 7px;
     max-width: 125px;
 }
-.category-container__header--item-container > p[data-v-e48ae050]:nth-child(1) {
+.category-container__header--item-container > p[data-v-7859eb18]:nth-child(1) {
     max-width: 100px;
 }
-button[data-v-e48ae050] {
+button[data-v-7859eb18] {
     left: 50%;
     bottom: -150px;
     -webkit-transform: translate(-50%);
             transform: translate(-50%);
 }
-.category-container__select-category[data-v-e48ae050] {
+.category-container__select-category[data-v-7859eb18] {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
@@ -3259,29 +3259,29 @@ button[data-v-e48ae050] {
             align-items: center;
     margin-bottom: 40px;
 }
-.category-container__select-category--item[data-v-e48ae050] {
+.category-container__select-category--item[data-v-7859eb18] {
     width: 280px;
     height: 250px;
     margin-bottom: 25px;
 }
-.category-container__select-category--item > img[data-v-e48ae050] {
+.category-container__select-category--item > img[data-v-7859eb18] {
     -webkit-filter: brightness(0.75);
             filter: brightness(0.75);
 }
-.small-shadow[data-v-e48ae050] {
+.small-shadow[data-v-7859eb18] {
     display: none;
 }
-h2[data-v-e48ae050] {
+h2[data-v-7859eb18] {
     font-size: 27px;
     text-align: center;
 }
-.portfolio-menu[data-v-e48ae050] {
+.portfolio-menu[data-v-7859eb18] {
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
     max-width: none;
 }
-.portfolio-menu__item[data-v-e48ae050] {
+.portfolio-menu__item[data-v-7859eb18] {
     display: none;
     width: 290px;
     height: 60px;
@@ -3289,14 +3289,14 @@ h2[data-v-e48ae050] {
     font-weight: 400;
     padding: 13px 22px;
 }
-.active[data-v-e48ae050] {
+.active[data-v-7859eb18] {
     display: block;
 }
-.fa[data-v-e48ae050] {
+.fa[data-v-7859eb18] {
     display: inline-block;
     margin-left: 7rem;
 }
-.portfolio-object[data-v-e48ae050] {
+.portfolio-object[data-v-7859eb18] {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
@@ -3305,25 +3305,25 @@ h2[data-v-e48ae050] {
         -ms-flex-align: center;
             align-items: center;
 }
-.portfolio-object--item[data-v-e48ae050] {
+.portfolio-object--item[data-v-7859eb18] {
     max-width: 400px;
     height: 250px;
     margin: 10px 0;
 }
-.portfolio-object--item > img[data-v-e48ae050] {
+.portfolio-object--item > img[data-v-7859eb18] {
     max-width: 400px;
     max-height: 250px;
     -webkit-filter: brightness(0.8);
             filter: brightness(0.8);
 }
-.load-more[data-v-e48ae050] {
+.load-more[data-v-7859eb18] {
     display: block;
     text-align: center;
     font-size: 22px;
     font-weight: 400;
     line-height: 80px;
 }
-.category-container__content__container[data-v-e48ae050] {
+.category-container__content__container[data-v-7859eb18] {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
@@ -3333,67 +3333,67 @@ h2[data-v-e48ae050] {
         -ms-flex-align: center;
             align-items: center;
 }
-.category-container__content__container[data-v-e48ae050] {
+.category-container__content__container[data-v-7859eb18] {
     padding: 0 15px;
 }
 }
 @media (min-width: 1025px) and (max-width: 1900px) {
-.category-container__header > h1[data-v-e48ae050] {
+.category-container__header > h1[data-v-7859eb18] {
     font-size: 60px;
     bottom: 55%;
     left: 17%;
     line-height: 60px;
 }
-.category-container__header > p[data-v-e48ae050] {
+.category-container__header > p[data-v-7859eb18] {
     left: 17%;
     top: 7%;
 }
-.category-container__header--item-container[data-v-e48ae050] {
+.category-container__header--item-container[data-v-7859eb18] {
     bottom: 35%;
     left: 17%;
 }
-button[data-v-e48ae050]  {
+button[data-v-7859eb18]  {
     left: 17%;
     bottom: 20%;
 }
-.category-bottom-arrow[data-v-e48ae050] {
+.category-bottom-arrow[data-v-7859eb18] {
     min-height: 60px;
 }
-.category-container__select-category[data-v-e48ae050] {
+.category-container__select-category[data-v-7859eb18] {
     max-width: 1100px;
 }
-.category-container__select-category--item[data-v-e48ae050] {
+.category-container__select-category--item[data-v-7859eb18] {
     max-width: 250px;
     height: 230px;
 }
-.small-shadow[data-v-e48ae050] {
+.small-shadow[data-v-7859eb18] {
     top: 0;
     height: 100%;
     max-width: 250px;
     border: 1px solid transparent;
     border-radius: 7px;
 }
-.category-container__select-category--item > h6[data-v-e48ae050] {
+.category-container__select-category--item > h6[data-v-7859eb18] {
     font-size: 30px;
 }
-h2[data-v-e48ae050] {
+h2[data-v-7859eb18] {
     max-width: 1100px;
 }
-.portfolio-container[data-v-e48ae050] {
+.portfolio-container[data-v-7859eb18] {
     max-width: 1100px;
 }
-.portfolio-object--item[data-v-e48ae050] {
+.portfolio-object--item[data-v-7859eb18] {
     max-width: 340px;
     max-height: 370px;
 }
-.category-container__content__container[data-v-e48ae050] {
+.category-container__content__container[data-v-7859eb18] {
     max-width: 1100px;
 }
-.category-container__content__container--item > p[data-v-e48ae050] {
+.category-container__content__container--item > p[data-v-7859eb18] {
     font-size: 14px;
     padding-right: 15px;
 }
-.category-container__content__container--item > ul > li[data-v-e48ae050] {
+.category-container__content__container--item > ul > li[data-v-7859eb18] {
     font-size: 14px;
 }
 }
@@ -3814,4 +3814,4 @@ h3[data-v-f71caa6e] {
 @media (min-width: 1025px) and (max-width: 1900px) {
 }
 
-/*# sourceMappingURL=app.883b069cea2e4a4140ba.css.map*/
+/*# sourceMappingURL=app.3627cd76b9f361a8ef2a.css.map*/
